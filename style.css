@@ -27,6 +27,10 @@ div {
     border-radius: 50%;
 }
 
+#bom {
+    text-align: center;
+}
+
 footer {
     color: white;
     text-align: center;
